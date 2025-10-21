@@ -1,0 +1,5 @@
+include:
+  - board: seeed_xiao_nrf52840
+    shield: corne_left
+  - board: seeed_xiao_nrf52840
+    shield: corne_right
